@@ -1,0 +1,15 @@
+{
+  "name": "youtube-playlist",
+  "version": "0.0.0",
+  "homepage": "https://github.com/nravi89/youtube-playlist",
+  "authors": [
+    "Nirmal kumar Ravi <nravi@hawk.iit.edu>"
+  ],
+  "description": "a web app to add/delete youtube videoes",
+  "main": "public/app.js",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.4.1",
+    "angular-youtube-mb": "~1.0.2"
+  }
+}
